@@ -2,4 +2,6 @@
   - Layered Architecture
   - TypeORM
   - Node.js
+  - Docker
+  - Jest
   - General use-case and best practices of the aforementioned in a project
