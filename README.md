@@ -1,0 +1,5 @@
+- Personal Practice/Familiarization on:
+  - Layered Architecture
+  - TypeORM
+  - Node.js
+  - General use-case and best practices of the aforementioned in a project
